@@ -1,0 +1,52 @@
+DEBUG 2018-01-22 19:19:19,104 STATE - PinFile and file structure created at /workDir/testw
+DEBUG 2018-01-22 19:23:12,055 rundb_id: 1
+DEBUG 2018-01-22 19:23:12,055 uhash: 10a0
+DEBUG 2018-01-22 19:23:13,825 calling: preup
+DEBUG 2018-01-22 19:23:13,825 hook preup initiated
+DEBUG 2018-01-22 19:23:37,101 hook postinv initiated
+DEBUG 2018-01-22 19:23:37,102 hook postup initiated
+DEBUG 2018-01-22 19:23:37,103 STATE - 
+Target              	Run ID	uHash	Exit Code 
+-------------------------------------------------
+dummy_target        	     1	 10a0	        2
+
+DEBUG 2018-01-22 19:23:47,969 rundb_id: 2
+DEBUG 2018-01-22 19:23:47,969 uhash: 5a3b
+DEBUG 2018-01-22 19:23:48,155 calling: preup
+DEBUG 2018-01-22 19:23:48,156 hook preup initiated
+DEBUG 2018-01-22 19:25:11,711 rundb_id: 3
+DEBUG 2018-01-22 19:25:11,711 uhash: 3c88
+DEBUG 2018-01-22 19:25:11,751 calling: preup
+DEBUG 2018-01-22 19:25:11,752 hook preup initiated
+DEBUG 2018-01-22 19:26:33,471 STATE - Action 'up' on Target 'dummy_target' is complete
+DEBUG 2018-01-22 19:26:33,471 hook postinv initiated
+DEBUG 2018-01-22 19:26:33,472 hook postup initiated
+DEBUG 2018-01-22 19:26:33,474 STATE - 
+Target              	Run ID	uHash	Exit Code 
+-------------------------------------------------
+dummy_target        	     3	 3c88	        0
+
+DEBUG 2018-01-22 19:31:52,588 rundb_id: 4
+DEBUG 2018-01-22 19:31:52,588 uhash: c0c2
+DEBUG 2018-01-22 19:31:52,626 calling: preup
+DEBUG 2018-01-22 19:31:52,626 hook preup initiated
+DEBUG 2018-01-22 19:32:48,696 STATE - Action 'up' on Target 'dummy_target' is complete
+DEBUG 2018-01-22 19:32:48,696 hook postinv initiated
+DEBUG 2018-01-22 19:32:48,697 hook postup initiated
+DEBUG 2018-01-22 19:32:48,699 STATE - 
+Target              	Run ID	uHash	Exit Code 
+-------------------------------------------------
+dummy_target        	     4	 c0c2	        0
+
+DEBUG 2018-01-22 19:35:09,476 rundb_id: 5
+DEBUG 2018-01-22 19:35:09,476 uhash: 436f
+DEBUG 2018-01-22 19:35:09,525 calling: preup
+DEBUG 2018-01-22 19:35:09,525 hook preup initiated
+DEBUG 2018-01-22 19:36:15,260 STATE - Action 'up' on Target 'dummy_target' is complete
+DEBUG 2018-01-22 19:36:15,260 hook postinv initiated
+DEBUG 2018-01-22 19:36:15,261 hook postup initiated
+DEBUG 2018-01-22 19:36:15,264 STATE - 
+Target              	Run ID	uHash	Exit Code 
+-------------------------------------------------
+dummy_target        	     5	 436f	        0
+
